@@ -1,0 +1,23 @@
+{
+  "name": "beliefs_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickGichuki/28-fundamentals-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickGichuki/28-fundamentals-server/issues"
+  },
+  "homepage": "https://github.com/ErickGichuki/28-fundamentals-server#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
